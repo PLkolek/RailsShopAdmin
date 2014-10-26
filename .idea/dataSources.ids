@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails shopAdmin: development" uuid="f8726baf-cc55-45dc-bf06-a85fefb369e2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails shopAdmin: test" uuid="80b01623-1cae-4877-9008-d61810ddbad9">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails shopAdmin: production" uuid="9bf6a92e-95df-4d6a-946e-8a94b9a64dae">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

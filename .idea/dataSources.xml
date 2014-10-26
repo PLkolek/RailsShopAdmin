@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="213178302">
+    <data-source source="LOCAL" name="Rails shopAdmin: development" uuid="f8726baf-cc55-45dc-bf06-a85fefb369e2">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:shopAdmin_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails shopAdmin: test" uuid="80b01623-1cae-4877-9008-d61810ddbad9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:shopAdmin_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails shopAdmin: production" uuid="9bf6a92e-95df-4d6a-946e-8a94b9a64dae">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:shopAdmin_production</jdbc-url>
+      <user-name>shopAdmin</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dfe2dfe5dffadfebdfeedfe7dfe3dfe4dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
